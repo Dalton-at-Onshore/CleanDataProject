@@ -21,5 +21,5 @@ Actual steps performed can be found at in the [CodeBook](CodeBook.md)
 
 ## Steps to recreate findings
 
-1. [Download](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) source data, unzip the directory, then ensure directory is placed in your R sessions working directory.
+1. [Download](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) source data, unzip the directory, then ensure directory is placed in your working directory your R sessions is currently set to.
 2. Source [run_analysis](run_analysis.R) in your working session of R Studios
