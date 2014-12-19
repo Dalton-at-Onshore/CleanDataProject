@@ -1,5 +1,3 @@
-# Assumes that UCI HAR Dataset directory is located in your working directory
-
 # Gather Labels and Features information to apply to data
     
     # Set directory path
